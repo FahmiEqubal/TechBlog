@@ -18,10 +18,7 @@ The blog covers a wide range of topics, including:
 
 I welcome contributions from the community. If you have suggestions, improvements, or would like to submit your own article, please feel free to fork this repository and submit a pull request. Let's collaborate and create a valuable resource for Java developers!
 
-
-- Follow me on [Twitter](https://twitter.com/example) for announcements and other interesting insights.
-- Connect with me on [LinkedIn](https://linkedin.com/in/example) for professional networking.
-
 Thank you for visiting TechBlog, and I hope you find the content useful and informative. Happy coding!
 
-[Your Name]
+Equbal Fahmi
+iqubalfahmi@gmail.com
